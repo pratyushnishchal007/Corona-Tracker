@@ -2,4 +2,4 @@
 
 This Website can track coronavirus cases
 
-link of website: http://corona-tracker.epizy.com/home.php
+link of website: http://corona-virus.infinityfreeapp.com/home.php
